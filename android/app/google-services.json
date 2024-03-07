@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "57826761431",
+    "project_id": "bloom-hotel-f4c79",
+    "storage_bucket": "bloom-hotel-f4c79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57826761431:android:29fc891b8a477b24bd2e92",
+        "android_client_info": {
+          "package_name": "com.example.bloom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57826761431-2r6ldq2cgne3fchn2hjimts31277rohp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVI3-HeXT9T8OnGIMxEjABkK9x7okyc8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57826761431-2r6ldq2cgne3fchn2hjimts31277rohp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "57826761431-hngnl50hdrbiu5tfhvn81b2elpolilf1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bloom.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
